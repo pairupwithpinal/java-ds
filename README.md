@@ -6,3 +6,4 @@ My java data structure repo contains data structure related work.
 * ArrayList
 * Map
 * Set
+* Stack
