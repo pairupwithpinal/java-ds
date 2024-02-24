@@ -5,7 +5,7 @@ public class DemoMain {
 
         ArrayKey search_no = new ArrayKey();
         search_no.getdata();
-        search_no.Search();
+        search_no.search();
 
     }
 }
